@@ -1,0 +1,22 @@
+{
+  "name": "my-gitbook",
+  "version": "1.0.0",
+  "description": "book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoYongfeng/my-gitbook.git"
+  },
+  "keywords": [
+    "book"
+  ],
+  "author": "guoyongfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/my-gitbook/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/my-gitbook#readme"
+}
